@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Laila', serif;
+    font-size:50px;
+    color:blue;
+    padding-bottom:0px;
+    margin-bottom:0px;
+}
+
+body{
+    text-align:center;
+    font-family: 'Laila', serif;
+    background-color:black;
+    background-image: url("http://jmd.im/wp-content/uploads/2017/06/blackii_thumbnail.jpg");
+}
+
+p{
+    font-family: 'Laila', serif;
+    font-size:25px;
+    color:blue;
+}
+h5{
+    font-family: 'Laila', serif;
+    font-size:30px;
+    color:blue;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+
+h4{
+    font-family: 'Laila', serif;
+    font-size:20px;
+    color:blue;
+}
+
+p{
+    font-family: 'Laila', serif;
+    font-size:20px;
+    color:blue;
+}
